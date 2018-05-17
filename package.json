@@ -3,6 +3,6 @@
   "version": "1.0.0",
   "main": "bot.js",
   "scripte": {
-   "start": "node bot.js"
+   "start": "node zerotwo1"
 }}
    
